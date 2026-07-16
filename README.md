@@ -80,33 +80,24 @@ With a strong engineering leadership background at **Zulu Tech** (fintech B2B/B2
 
 ## 📊 GitHub Dashboard
 
-<div align="center">
-  <table border="0">
-    <tr>
-      <td align="center" valign="top" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=joaltoroc&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" width="100%" />
-      </td>
-      <td align="center" valign="top" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaltoroc&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" width="100%" />
-      </td>
-    </tr>
-    <tr>
-      <td align="center" valign="top" colspan="2">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=joaltoroc&theme=radical&hide_border=false" alt="GitHub Streak" width="100%" />
-      </td>
-    </tr>
-  </table>
-</div>
+| | |
+| --- | --- |
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=joaltoroc&theme=radical&hide_border=false&include_all_commits=true&count_private=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joaltoroc&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact) |
+
+<p align="center">
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=joaltoroc&amp;theme=radical&amp;hide_border=false" alt="GitHub Streak" />
+</p>
 
 ### 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=joaltoroc&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=joaltoroc&amp;theme=radical&amp;no-frame=false&amp;no-bg=true&amp;margin-w=4" alt="trophies" />
 </p>
 
 ---
 
 <p align="center">
   <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=joaltoroc&icon=0&color=12" alt="Visitors" />
+    <img src="https://visitcount.itsvg.in/api?id=joaltoroc&amp;icon=0&amp;color=12" alt="Visitors" />
   </a>
 </p>
