@@ -100,7 +100,7 @@ With a strong engineering leadership background at **Zulu Tech** (fintech B2B/B2
 
 | | |
 | --- | --- |
-| ![GitHub Stats](https://github-stats-extended.vercel.app/api?username=joaltoroc&theme=radical&hide_border=false&include_all_commits=true&count_private=true) | ![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=joaltoroc&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact) |
+| ![GitHub Stats](https://github-helpers.creativecode.com.co/api/stats?username=joaltoroc&theme=dark) | ![Lenguajes más usados](https://github-helpers.creativecode.com.co/api/languages?username=joaltoroc&theme=dark) |
 
 <p align="center">
   <br/>
