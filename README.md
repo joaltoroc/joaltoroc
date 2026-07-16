@@ -104,7 +104,7 @@ With a strong engineering leadership background at **Zulu Tech** (fintech B2B/B2
 
 <p align="center">
   <br/>
-  ![Racha de Contribuciones](https://github-helpers.creativecode.com.co/api/streak?username=joaltoroc&theme=dark)
+  <img src="https://github-helpers.creativecode.com.co/api/streak?username=joaltoroc&theme=dark" alt="streak" />
 </p>
 
 ### 🏆 GitHub Trophies
