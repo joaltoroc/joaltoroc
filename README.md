@@ -104,7 +104,7 @@ With a strong engineering leadership background at **Zulu Tech** (fintech B2B/B2
 
 <p align="center">
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=joaltoroc&amp;theme=radical&amp;hide_border=false" alt="GitHub Streak" />
+  ![Racha de Contribuciones](https://github-helpers.creativecode.com.co/api/streak?username=joaltoroc&theme=dark)
 </p>
 
 ### 🏆 GitHub Trophies
