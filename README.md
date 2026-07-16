@@ -2,7 +2,20 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/joaltoroc/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.jatc.co"><img src="https://img.shields.io/badge/Website-jatc.co-121212?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" /></a>
 </p>
+
+```bash
+$ whoami
+John Toro | Software Engineering Senior Team Lead
+
+$ security --check
+✓ OWASP & DevSecOps: Active
+✓ Cloud Infra: Active
+✓ Code Quality: Active
+
+$ _
+```
 
 ## 🚀 About Me
 
@@ -14,6 +27,11 @@ With a strong engineering leadership background at **Zulu Tech** (fintech B2B/B2
 * **💼 Specializations:** Engineering Leadership, Microservices Architectures, Cloud Infrastructure, AI Integrations & DevSecOps
 * **🌱 Core Stack:** NestJS / Node.js, Go, .NET / C#, React & NuxtJS, Azure & AWS, Docker
 * **💬 Ask me about:** High-throughput microservices, clean architecture, Salesforce integrations (Celigo), and team mentorship
+
+### 📊 Quick Stats
+| 💼 Experiencia | 🚀 Proyectos | 🗣️ Idiomas |
+| :---: | :---: | :---: |
+| **+18 Años** | **+20 Completados** | **Español (Nativo) \| Inglés (B2)** |
 
 ---
 
