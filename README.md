@@ -82,7 +82,7 @@ With a strong engineering leadership background at **Zulu Tech** (fintech B2B/B2
 
 | | |
 | --- | --- |
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=joaltoroc&theme=radical&hide_border=false&include_all_commits=true&count_private=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joaltoroc&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact) |
+| ![GitHub Stats](https://github-stats-extended.vercel.app/api?username=joaltoroc&theme=radical&hide_border=false&include_all_commits=true&count_private=true) | ![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=joaltoroc&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact) |
 
 <p align="center">
   <br/>
@@ -91,13 +91,11 @@ With a strong engineering leadership background at **Zulu Tech** (fintech B2B/B2
 
 ### 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=joaltoroc&amp;theme=radical&amp;no-frame=false&amp;no-bg=true&amp;margin-w=4" alt="trophies" />
+  <img src="https://github-profile-trophy-unserori.vercel.app/?username=joaltoroc&amp;theme=radical&amp;no-frame=false&amp;no-bg=true&amp;margin-w=4" alt="trophies" />
 </p>
 
 ---
 
 <p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=joaltoroc&amp;icon=0&amp;color=12" alt="Visitors" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=joaltoroc&amp;color=blue&amp;style=flat-square" alt="Visitors" />
 </p>
