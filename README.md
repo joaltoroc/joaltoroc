@@ -110,6 +110,4 @@ With a strong engineering leadership background at **Zulu Tech** (fintech B2B/B2
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=joaltoroc&amp;color=blue&amp;style=flat-square" alt="Visitors" />
-</p>
+![Visitas de Perfil](https://github-helpers.creativecode.com.co/api/views?username=joaltoroc&theme=dark&label=Profile%20views&style=flat)
