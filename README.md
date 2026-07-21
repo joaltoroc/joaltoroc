@@ -98,15 +98,17 @@ With a strong engineering leadership background at **Zulu Tech** (fintech B2B/B2
 
 ## 📊 GitHub Dashboard [Created in Github Helpers by CreativeCode.com.co](https://github-helpers.creativecode.com.co/)
 
-![GitHub Stats](https://github-helpers.creativecode.com.co/api/stats?username=joaltoroc&theme=dark)
+![GitHub Stats](https://github-helpers.creativecode.com.co/api/stats?username=joaltoroc&theme=dark&card_width=100%25)
 
-![Lenguajes más usados](https://github-helpers.creativecode.com.co/api/languages?username=joaltoroc&theme=dark)
+![Lenguajes más usados](https://github-helpers.creativecode.com.co/api/languages?username=joaltoroc&theme=dark&card_width=100%25)
 
-![Rango de Desarrollador](https://github-helpers.creativecode.com.co/api/rank?username=joaltoroc&theme=dark)
+![Rango de Desarrollador](https://github-helpers.creativecode.com.co/api/rank?username=joaltoroc&theme=dark&card_width=100%25)
 
-![Racha de Contribuciones](https://github-helpers.creativecode.com.co/api/streak?username=joaltoroc&theme=dark)
+![Racha de Contribuciones](https://github-helpers.creativecode.com.co/api/streak?username=joaltoroc&theme=dark&card_width=100%25)
 
-![Trofeos de GitHub](https://github-helpers.creativecode.com.co/api/trophies?username=joaltoroc&theme=dark)
+![Trofeos de GitHub](https://github-helpers.creativecode.com.co/api/trophies?username=joaltoroc&theme=dark&card_width=100%25)
+
+![Top Repositorios](https://github-helpers.creativecode.com.co/api/top-repos?username=joaltoroc&theme=dark&card_width=100%25)
 
 ---
 
