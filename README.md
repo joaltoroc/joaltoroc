@@ -102,9 +102,11 @@ With a strong engineering leadership background at **Zulu Tech** (fintech B2B/B2
 
 ![Lenguajes más usados](https://github-helpers.creativecode.com.co/api/languages?username=joaltoroc&theme=dark)
 
+![Rango de Desarrollador](https://github-helpers.creativecode.com.co/api/rank?username=joaltoroc&theme=dark)
+
 ![Racha de Contribuciones](https://github-helpers.creativecode.com.co/api/streak?username=joaltoroc&theme=dark)
 
-![Rango de Desarrollador](https://github-helpers.creativecode.com.co/api/rank?username=joaltoroc&theme=dark)
+![Trofeos de GitHub](https://github-helpers.creativecode.com.co/api/trophies?username=joaltoroc&theme=dark)
 
 ---
 
