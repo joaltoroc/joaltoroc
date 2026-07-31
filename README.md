@@ -98,23 +98,19 @@ With a strong engineering leadership background at **Zulu Tech** (fintech B2B/B2
 
 ## 📊 GitHub Dashboard [Created in Github Helpers by CreativeCode.com.co](https://github-helpers.creativecode.com.co/)
 
-![Contador de Visitas del Perfil](https://github-helpers.creativecode.com.co/api/views?username=joaltoroc&theme=dark&label=Profile%20views&style=flat)
+![GitHub Stats](https://gitcard-studio.creativecode.com.co/api/stats?username=joaltoroc&theme=dark&locale=en)
 
-![Estadísticas Generales](https://github-helpers.creativecode.com.co/api/stats?username=joaltoroc&theme=dark&locale=es)
+![Lenguajes más usados](https://gitcard-studio.creativecode.com.co/api/languages?username=joaltoroc&theme=dark&locale=en)
 
-![Lenguajes más Usados](https://github-helpers.creativecode.com.co/api/languages?username=joaltoroc&theme=dark&locale=es)
+![Racha de Contribuciones](https://gitcard-studio.creativecode.com.co/api/streak?username=joaltoroc&theme=dark&locale=en)
 
-![Racha de Commits](https://github-helpers.creativecode.com.co/api/streak?username=joaltoroc&theme=dark&locale=es)
+![Trofeos de GitHub](https://gitcard-studio.creativecode.com.co/api/trophies?username=joaltoroc&theme=dark&locale=en)
 
-![Rango de Desarrollador](https://github-helpers.creativecode.com.co/api/rank?username=joaltoroc&theme=dark&locale=es)
+![Top Repositorios](https://gitcard-studio.creativecode.com.co/api/top-repos?username=joaltoroc&theme=dark&locale=en)
 
-![Trofeos de GitHub](https://github-helpers.creativecode.com.co/api/trophies?username=joaltoroc&theme=dark&locale=es)
+![Matriz de Hábitos](https://gitcard-studio.creativecode.com.co/api/commit-activity?username=joaltoroc&theme=dark&locale=en)
 
-![Top Repositorios](https://github-helpers.creativecode.com.co/api/top-repos?username=joaltoroc&theme=dark&locale=es)
-
-![GitHub Sponsors](https://github-helpers.creativecode.com.co/api/sponsors?username=joaltoroc&theme=dark&locale=es)
-
-![Matriz de Hábitos de Commit](https://github-helpers.creativecode.com.co/api/commit-activity?username=joaltoroc&theme=dark&locale=es)
+![GitHub Sponsors](https://gitcard-studio.creativecode.com.co/api/sponsors?username=joaltoroc&theme=dark&locale=en)
 
 ---
 
@@ -123,4 +119,4 @@ Si este proyecto te ha sido de utilidad, considera [patrocinar en GitHub Sponsor
 
 ---
 
-![Visitas de Perfil](https://github-helpers.creativecode.com.co/api/views?username=joaltoroc&theme=dark&label=Profile%20views&style=flat)
+![Visitas de Perfil](https://gitcard-studio.creativecode.com.co/api/views?username=joaltoroc&theme=dark&label=Profile%20views&style=flat)
