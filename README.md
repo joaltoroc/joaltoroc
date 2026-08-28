@@ -98,7 +98,7 @@ With a strong engineering leadership background at **Zulu Tech** (fintech B2B/B2
 
 ---
 
-## 📊 GitHub Dashboard [Created in Github Helpers by CreativeCode.com.co](https://github-helpers.creativecode.com.co/)
+## 📊 GitHub Dashboard [Created in GitCard Studio by CreativeCode.com.co](https://gitcard-studio.creativecode.com.co)
 
 ![Today's Status](https://gitcard-studio.creativecode.com.co/api/today-status?username=joaltoroc&theme=dark&locale=en)
 
