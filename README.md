@@ -5,6 +5,8 @@
   <a href="https://www.jatc.co"><img src="https://img.shields.io/badge/Website-jatc.co-121212?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" /></a>
 </p>
 
+![Views Counter](https://gitcard-studio.creativecode.com.co/api/views?username=joaltoroc&theme=dark&label=Profile%20views&style=flat)
+
 ```bash
 $ whoami
 John Toro | Software Engineering Senior Team Lead
@@ -98,21 +100,25 @@ With a strong engineering leadership background at **Zulu Tech** (fintech B2B/B2
 
 ## 📊 GitHub Dashboard [Created in Github Helpers by CreativeCode.com.co](https://github-helpers.creativecode.com.co/)
 
-![GitHub Stats](https://gitcard-studio.creativecode.com.co/api/stats?username=joaltoroc&theme=dark&locale=en)
+![Today's Status](https://gitcard-studio.creativecode.com.co/api/today-status?username=joaltoroc&theme=dark&locale=en)
 
-![Lenguajes más usados](https://gitcard-studio.creativecode.com.co/api/languages?username=joaltoroc&theme=dark&locale=en)
+![General Statistics](https://gitcard-studio.creativecode.com.co/api/stats?username=joaltoroc&theme=dark&locale=en)
 
-![Rango de Desarrollador](https://gitcard-studio.creativecode.com.co/api/rank?username=joaltoroc&theme=dark&locale=es)
+![Most Used Languages](https://gitcard-studio.creativecode.com.co/api/languages?username=joaltoroc&theme=dark&locale=en)
 
-![Racha de Contribuciones](https://gitcard-studio.creativecode.com.co/api/streak?username=joaltoroc&theme=dark&locale=en)
+![Commit Streak](https://gitcard-studio.creativecode.com.co/api/streak?username=joaltoroc&theme=dark&locale=en)
 
-![Trofeos de GitHub](https://gitcard-studio.creativecode.com.co/api/trophies?username=joaltoroc&theme=dark&locale=en)
+![GitHub Trophies](https://gitcard-studio.creativecode.com.co/api/trophies?username=joaltoroc&theme=dark&locale=en)
 
-![Top Repositorios](https://gitcard-studio.creativecode.com.co/api/top-repos?username=joaltoroc&theme=dark&locale=en)
-
-![Matriz de Hábitos](https://gitcard-studio.creativecode.com.co/api/commit-activity?username=joaltoroc&theme=dark&locale=en)
+![Top Repositories](https://gitcard-studio.creativecode.com.co/api/top-repos?username=joaltoroc&theme=dark&locale=en)
 
 ![GitHub Sponsors](https://gitcard-studio.creativecode.com.co/api/sponsors?username=joaltoroc&theme=dark&locale=en)
+
+![Commit Activity Matrix](https://gitcard-studio.creativecode.com.co/api/commit-activity?username=joaltoroc&theme=dark&locale=en)
+
+![Productivity Timeline](https://gitcard-studio.creativecode.com.co/api/timeline-matrix?username=joaltoroc&theme=dark&locale=en)
+
+![Featured Repository](https://gitcard-studio.creativecode.com.co/api/repo?username=joaltoroc&theme=dark&locale=en)
 
 ---
 
