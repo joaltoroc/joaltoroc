@@ -9,26 +9,29 @@
 
 ```bash
 $ whoami
-John Toro | Software Engineering Senior Team Lead
+John Toro | Gerente de Desarrollo & Technical Lead
 
 $ security --check
-✓ OWASP & DevSecOps: Active
-✓ Cloud Infra: Active
-✓ Code Quality: Active
+✓ OWASP & DevSecOps: Active (Pentest & SonarCloud 0 Vulnerabilities)
+✓ Cloud Infra: Azure & AWS (Terraform / Docker)
+✓ AI Workflows: n8n & Prompt Engineering Active
+✓ Code Quality: Clean Architecture & DDD
 
 $ _
 ```
 
 ## 🚀 About Me
 
-I am a passionate **Software Engineering Senior Team Lead & Full-Stack Engineer** based in Bogotá. Currently leading cross-functional teams at **Quetzal International Services SAS**, where we deliver AI-integrated case management and document solutions, reducing audit times and technical debt under high security standards.
+I am a passionate **Software Engineering Senior Team Lead, Gerente de Desarrollo & Cybersecurity Specialist** based in Bogotá with over 18 years of experience building secure, high-performance software products.
 
-With a strong engineering leadership background at **Zulu Tech** (fintech B2B/B2C payment platforms) and **Mercado Libre** (KYC engine), I specialize in designing scalable microservices architectures, cloud computing, and high-performance applications.
+Currently leading cross-functional engineering teams at **Quetzal International Services SAS**, where we deliver AI-integrated case management and document solutions connected with Salesforce (Celigo), reducing audit processing times by 30% and technical debt by 21% under strict security standards.
 
-* **🔭 Current Role:** Software Engineering Senior Team Lead @ Quetzal International Services SAS
-* **💼 Specializations:** Engineering Leadership, Microservices Architectures, Cloud Infrastructure, AI Integrations & DevSecOps
-* **🌱 Core Stack:** NestJS / Node.js, Go, .NET / C#, React & NuxtJS, Azure & AWS, Docker
-* **💬 Ask me about:** High-throughput microservices, clean architecture, Salesforce integrations (Celigo), and team mentorship
+With a strong engineering leadership background at **Zulu Tech** (fintech B2B/B2C payment platforms & Web3 processing over $2M USDC) and **Mercado Libre** (KYC engine optimization), I specialize in designing scalable microservices architectures, cloud computing, AI automation (n8n), and DevSecOps pipelines.
+
+* **🔭 Current Role:** Gerente de Desarrollo & Software Engineering Senior Team Lead @ Quetzal International Services SAS
+* **💼 Specializations:** Engineering Leadership, Microservices Architectures, Cloud Infrastructure, DevSecOps, AI Integrations & Clean Architecture
+* **🌱 Core Stack:** NestJS / Node.js, Go, .NET / C#, React & Astro, Azure & AWS, Docker, Terraform
+* **💬 Ask me about:** High-throughput microservices, OWASP compliance, Salesforce integrations (Celigo), n8n workflows, and engineering team mentorship
 
 ### 📊 Quick Stats
 | 💼 Experiencia | 🚀 Proyectos | 🗣️ Idiomas |
@@ -54,16 +57,27 @@ With a strong engineering leadership background at **Zulu Tech** (fintech B2B/B2
 <p align="left">
   <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native" />
+  <img src="https://img.shields.io/badge/Astro-BC52EE?style=flat-square&logo=astro&logoColor=white" alt="Astro" />
   <img src="https://img.shields.io/badge/NuxtJS-00C58E?style=flat-square&logo=nuxt.js&logoColor=white" alt="NuxtJS" />
   <img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Angular" />
   <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white" alt="Redux" />
   <img src="https://img.shields.io/badge/RxJS-B7178C?style=flat-square&logo=reactivex&logoColor=white" alt="RxJS" />
-  <img src="https://img.shields.io/badge/Xamarin-3199DC?style=flat-square&logo=xamarin&logoColor=white" alt="Xamarin" />
+</p>
+
+### 🛡️ Cybersecurity, DevSecOps & Code Integrity
+<p align="left">
+  <img src="https://img.shields.io/badge/OWASP-Top_10_Compliant-000000?style=flat-square&logo=owasp&logoColor=white" alt="OWASP Top 10" />
+  <img src="https://img.shields.io/badge/DevSecOps-SAST_%7C_DAST_%7C_SCA-005C8A?style=flat-square&logo=githubactions&logoColor=white" alt="DevSecOps" />
+  <img src="https://img.shields.io/badge/SonarCloud-A_Rating_%7C_0_Bugs-4E9BCD?style=flat-square&logo=sonarcloud&logoColor=white" alt="SonarCloud" />
+  <img src="https://img.shields.io/badge/Encryption-AES--256--GCM-7C3AED?style=flat-square&logo=keycdn&logoColor=white" alt="AES Encryption" />
+  <img src="https://img.shields.io/badge/Security-0_Vulnerabilities-10B981?style=flat-square&logo=shield&logoColor=white" alt="Zero Vulnerabilities" />
+  <img src="https://img.shields.io/badge/Accessibility-WCAG_2.2_AA-008080?style=flat-square&logo=w3c&logoColor=white" alt="WCAG 2.2 AA" />
 </p>
 
 ### 🛢️ Databases & Search
 <p align="left">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white" alt="SQL Server" />
   <img src="https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
@@ -72,7 +86,7 @@ With a strong engineering leadership background at **Zulu Tech** (fintech B2B/B2
   <img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white" alt="Elasticsearch" />
 </p>
 
-### ☁️ DevOps, Cloud & Security
+### ☁️ DevOps, Cloud & Automation
 <p align="left">
   <img src="https://img.shields.io/badge/Azure-0072C6?style=flat-square&logo=azure-devops&logoColor=white" alt="Azure" />
   <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS" />
@@ -80,20 +94,17 @@ With a strong engineering leadership background at **Zulu Tech** (fintech B2B/B2
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes" />
   <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" alt="Terraform" />
-  <img src="https://img.shields.io/badge/OWASP-black?style=flat-square&logo=owasp&logoColor=white" alt="OWASP" />
+  <img src="https://img.shields.io/badge/n8n-FF6D5A?style=flat-square&logo=n8n&logoColor=white" alt="n8n Automation" />
 </p>
 
 ### 🔧 Tools, Frameworks & Design
 <p align="left">
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma" />
-  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white" alt="Photoshop" />
-  <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white" alt="Illustrator" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman" />
   <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black" alt="Swagger" />
   <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white" alt="Jira" />
   <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white" alt="Notion" />
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" alt="Arduino" />
 </p>
 
 ---
@@ -107,6 +118,8 @@ With a strong engineering leadership background at **Zulu Tech** (fintech B2B/B2
 ![Most Used Languages](https://gitcard-studio.creativecode.com.co/api/languages?username=joaltoroc&theme=dark&locale=en)
 
 ![Commit Streak](https://gitcard-studio.creativecode.com.co/api/streak?username=joaltoroc&theme=dark&locale=en)
+
+![Developer Rank](https://gitcard-studio.creativecode.com.co/api/rank?username=joaltoroc&theme=dark&locale=en)
 
 ![GitHub Trophies](https://gitcard-studio.creativecode.com.co/api/trophies?username=joaltoroc&theme=dark&locale=en)
 
@@ -122,8 +135,10 @@ With a strong engineering leadership background at **Zulu Tech** (fintech B2B/B2
 
 ---
 
-## 💖 Apoya el proyecto
-Si este proyecto te ha sido de utilidad, considera [patrocinar en GitHub Sponsors](https://github.com/sponsors/joaltoroc).
+## 💖 Apoya mis Proyectos Open Source
+Si estas herramientas te resultan útiles para tu perfil o proyectos, considera apoyar su desarrollo continuo en **GitHub Sponsors**:
+
+[![Sponsor en GitHub](https://img.shields.io/badge/Sponsor-GitHub%20Sponsors-ea4aaa?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sponsors/joaltoroc)
 
 ---
 
