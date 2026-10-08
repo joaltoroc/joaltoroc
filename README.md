@@ -109,29 +109,58 @@ With a strong engineering leadership background at **Zulu Tech** (fintech B2B/B2
 
 ---
 
-## 📊 GitHub Dashboard [Created in GitCard Studio by CreativeCode.com.co](https://gitcard-studio.creativecode.com.co)
+## 📊 GitHub Dashboard [Powered by GitCard Studio](https://gitcard-studio.creativecode.com.co)
 
-![Today's Status](https://gitcard-studio.creativecode.com.co/api/today-status?username=joaltoroc&theme=dark&locale=en)
-
-![General Statistics](https://gitcard-studio.creativecode.com.co/api/stats?username=joaltoroc&theme=dark&locale=en)
-
-![Most Used Languages](https://gitcard-studio.creativecode.com.co/api/languages?username=joaltoroc&theme=dark&locale=en)
-
-![Commit Streak](https://gitcard-studio.creativecode.com.co/api/streak?username=joaltoroc&theme=dark&locale=en)
-
-![Developer Rank](https://gitcard-studio.creativecode.com.co/api/rank?username=joaltoroc&theme=dark&locale=en)
-
-![GitHub Trophies](https://gitcard-studio.creativecode.com.co/api/trophies?username=joaltoroc&theme=dark&locale=en)
-
-![Top Repositories](https://gitcard-studio.creativecode.com.co/api/top-repos?username=joaltoroc&theme=dark&locale=en)
-
-![GitHub Sponsors](https://gitcard-studio.creativecode.com.co/api/sponsors?username=joaltoroc&theme=dark&locale=en)
-
-![Commit Activity Matrix](https://gitcard-studio.creativecode.com.co/api/commit-activity?username=joaltoroc&theme=dark&locale=en)
-
-![Productivity Timeline](https://gitcard-studio.creativecode.com.co/api/timeline-matrix?username=joaltoroc&theme=dark&locale=en)
-
-![Featured Repository](https://gitcard-studio.creativecode.com.co/api/repo?username=joaltoroc&theme=dark&locale=en)
+<table border="0">
+  <tr>
+    <td valign="top" width="50%">
+      <img src="https://gitcard-studio.creativecode.com.co/api/today-status?username=joaltoroc&theme=dark&locale=en" alt="Today's Status Badge" width="100%" />
+    </td>
+    <td valign="top" width="50%">
+      <img src="https://gitcard-studio.creativecode.com.co/api/rank?username=joaltoroc&theme=dark&locale=en" alt="Developer Rank" width="100%" />
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="50%">
+      <img src="https://gitcard-studio.creativecode.com.co/api/stats?username=joaltoroc&theme=dark&locale=en" alt="General Statistics" width="100%" />
+    </td>
+    <td valign="top" width="50%">
+      <img src="https://gitcard-studio.creativecode.com.co/api/languages?username=joaltoroc&theme=dark&locale=en" alt="Most Used Languages" width="100%" />
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="50%">
+      <img src="https://gitcard-studio.creativecode.com.co/api/streak?username=joaltoroc&theme=dark&locale=en" alt="Commit Streak" width="100%" />
+    </td>
+    <td valign="top" width="50%">
+      <img src="https://gitcard-studio.creativecode.com.co/api/tech-stack?username=joaltoroc&theme=dark&locale=en" alt="Tech Stack Ecosystem" width="100%" />
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="50%">
+      <img src="https://gitcard-studio.creativecode.com.co/api/trophies?username=joaltoroc&theme=dark&locale=en" alt="GitHub Trophies" width="100%" />
+    </td>
+    <td valign="top" width="50%">
+      <img src="https://gitcard-studio.creativecode.com.co/api/top-repos?username=joaltoroc&theme=dark&locale=en" alt="Top Repositories" width="100%" />
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="50%">
+      <img src="https://gitcard-studio.creativecode.com.co/api/commit-activity?username=joaltoroc&theme=dark&locale=en" alt="Commit Activity Matrix" width="100%" />
+    </td>
+    <td valign="top" width="50%">
+      <img src="https://gitcard-studio.creativecode.com.co/api/timeline-matrix?username=joaltoroc&theme=dark&locale=en" alt="Productivity Timeline" width="100%" />
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="50%">
+      <img src="https://gitcard-studio.creativecode.com.co/api/repo?username=joaltoroc&theme=dark&locale=en" alt="Featured Repository" width="100%" />
+    </td>
+    <td valign="top" width="50%">
+      <img src="https://gitcard-studio.creativecode.com.co/api/sponsors?username=joaltoroc&theme=dark&locale=en" alt="GitHub Sponsors" width="100%" />
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -139,7 +168,3 @@ With a strong engineering leadership background at **Zulu Tech** (fintech B2B/B2
 Si estas herramientas te resultan útiles para tu perfil o proyectos, considera apoyar su desarrollo continuo en **GitHub Sponsors**:
 
 [![Sponsor en GitHub](https://img.shields.io/badge/Sponsor-GitHub%20Sponsors-ea4aaa?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sponsors/joaltoroc)
-
----
-
-![Visitas de Perfil](https://gitcard-studio.creativecode.com.co/api/views?username=joaltoroc&theme=dark&label=Profile%20views&style=flat)
