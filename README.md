@@ -3,40 +3,58 @@
 <p align="left">
   <a href="https://www.linkedin.com/in/joaltoroc/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://www.jatc.co"><img src="https://img.shields.io/badge/Website-jatc.co-121212?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" /></a>
+  <a href="https://github.com/sponsors/joaltoroc"><img src="https://img.shields.io/badge/Sponsor-EA4AAA?style=for-the-badge&logo=github-sponsors&logoColor=white" alt="GitHub Sponsors" /></a>
+  <a href="https://gitcard-studio.creativecode.com.co"><img src="https://img.shields.io/badge/GitCard%20Studio-Live%20Telemetry-3178C6?style=for-the-badge&logo=github&logoColor=white" alt="GitCard Studio" /></a>
 </p>
 
-![Views Counter](https://gitcard-studio.creativecode.com.co/api/views?username=joaltoroc&theme=dark&label=Profile%20views&style=flat)
+<p align="left">
+  <a href="https://gitcard-studio.creativecode.com.co">
+    <img src="https://gitcard-studio.creativecode.com.co/api/views?username=joaltoroc&theme=dark&label=Profile%20Views&style=flat" alt="Views Counter" />
+  </a>
+</p>
 
 ```bash
 $ whoami
-John Toro | Gerente de Desarrollo & Technical Lead
+John Toro | Gerente de Desarrollo, Software Engineering Lead & Cybersecurity Specialist
 
 $ security --check
-✓ OWASP & DevSecOps: Active (Pentest & SonarCloud 0 Vulnerabilities)
-✓ Cloud Infra: Azure & AWS (Terraform / Docker)
-✓ AI Workflows: n8n & Prompt Engineering Active
-✓ Code Quality: Clean Architecture & DDD
+✓ OWASP Top 10 & DevSecOps: SAST / DAST / SCA (SonarCloud A-Rating | 0 Vulnerabilities)
+✓ Cloud Infrastructure: Azure, AWS & GCP (Terraform / Docker / Kubernetes)
+✓ AI & Automation Workflows: n8n, Case Management AI & Prompt Engineering Active
+✓ Code Integrity: Clean Architecture, Microservices & Domain-Driven Design (DDD)
+✓ Open Source Leadership: Creator & Maintainer of GitCard Studio (@creativecodeco)
 
 $ _
 ```
 
 ## 🚀 About Me
 
-I am a passionate **Software Engineering Senior Team Lead, Gerente de Desarrollo & Cybersecurity Specialist** based in Bogotá with over 18 years of experience building secure, high-performance software products.
+I am a passionate **Software Engineering Senior Team Lead, Gerente de Desarrollo & Cybersecurity Specialist** based in Bogotá with over **18 years of experience** building secure, resilient, and high-performance software products.
 
-Currently leading cross-functional engineering teams at **Quetzal International Services SAS**, where we deliver AI-integrated case management and document solutions connected with Salesforce (Celigo), reducing audit processing times by 30% and technical debt by 21% under strict security standards.
+Currently leading cross-functional engineering teams at **Quetzal International Services SAS**, delivering AI-integrated case management and legal/audit document workflows connected with Salesforce (Celigo), reducing audit processing cycles by **30%** and technical debt by **21%** under strict enterprise security benchmarks.
 
-With a strong engineering leadership background at **Zulu Tech** (fintech B2B/B2C payment platforms & Web3 processing over $2M USDC) and **Mercado Libre** (KYC engine optimization), I specialize in designing scalable microservices architectures, cloud computing, AI automation (n8n), and DevSecOps pipelines.
+With a strong track record of engineering leadership at **Zulu Tech** (high-concurrency fintech B2B/B2C payment platforms & Web3 processing over **$2M USDC**) and **Mercado Libre** (KYC authentication engine optimization), I specialize in designing scalable microservices architectures, cloud computing, intelligent automation (n8n), and robust DevSecOps pipelines.
 
 * **🔭 Current Role:** Gerente de Desarrollo & Software Engineering Senior Team Lead @ Quetzal International Services SAS
-* **💼 Specializations:** Engineering Leadership, Microservices Architectures, Cloud Infrastructure, DevSecOps, AI Integrations & Clean Architecture
-* **🌱 Core Stack:** NestJS / Node.js, Go, .NET / C#, React & Astro, Azure & AWS, Docker, Terraform
-* **💬 Ask me about:** High-throughput microservices, OWASP compliance, Salesforce integrations (Celigo), n8n workflows, and engineering team mentorship
+* **💼 Core Leadership:** Technical Strategy, High-Throughput Microservices, Cloud Infrastructure, DevSecOps & Team Mentorship
+* **🌱 Core Stack:** NestJS / Node.js, Go, .NET / C#, React & Astro, Azure & AWS, Docker, Kubernetes, Terraform
+* **💬 Ask me about:** Secure microservices, OWASP compliance, Salesforce integrations (Celigo), n8n workflows, Clean Architecture & DevSecOps
 
 ### 📊 Quick Stats
-| 💼 Experiencia | 🚀 Proyectos | 🗣️ Idiomas |
-| :---: | :---: | :---: |
-| **+18 Años** | **+20 Completados** | **Español (Nativo) \| Inglés (B2)** |
+| 💼 Experiencia | 🚀 Proyectos Líder | 🛡️ Ciberseguridad | 🗣️ Idiomas |
+| :---: | :---: | :---: | :---: |
+| **+18 Años** | **Fintech, LegalTech & AI** | **OWASP & SonarCloud 0 Issues** | **Español (Nativo) | Inglés (B2)** |
+
+---
+
+## 🌟 Featured Open Source Project
+
+### 🎴 [GitCard Studio](https://github.com/creativecodeco/gitcard-studio)
+> High-performance API microservice & interactive web studio to generate customizable real-time GitHub profile telemetry, stats cards, and badges.
+
+* **Live Studio:** [gitcard-studio.creativecode.com.co](https://gitcard-studio.creativecode.com.co)
+* **Architecture:** Clean Architecture (Domain, Use Cases, Adapters, Fastify / NestJS + Astro Frontend).
+* **Security & Quality:** OWASP Top 10 validated, AES-256-GCM token encryption, SSRF protection, SonarCloud A-Rating (0 bugs, 0 vulnerabilities), Prettier/ESLint clean, 160+ unit & integration tests.
 
 ---
 
@@ -65,6 +83,14 @@ With a strong engineering leadership background at **Zulu Tech** (fintech B2B/B2
   <img src="https://img.shields.io/badge/RxJS-B7178C?style=flat-square&logo=reactivex&logoColor=white" alt="RxJS" />
 </p>
 
+### 🤖 AI Workflows & Automation
+<p align="left">
+  <img src="https://img.shields.io/badge/n8n-FF6D5A?style=flat-square&logo=n8n&logoColor=white" alt="n8n Automation" />
+  <img src="https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI API" />
+  <img src="https://img.shields.io/badge/Prompt_Engineering-10B981?style=flat-square&logo=dependabot&logoColor=white" alt="Prompt Engineering" />
+  <img src="https://img.shields.io/badge/Celigo_iPaaS-00A1E0?style=flat-square&logo=salesforce&logoColor=white" alt="Celigo Integration" />
+</p>
+
 ### 🛡️ Cybersecurity, DevSecOps & Code Integrity
 <p align="left">
   <img src="https://img.shields.io/badge/OWASP-Top_10_Compliant-000000?style=flat-square&logo=owasp&logoColor=white" alt="OWASP Top 10" />
@@ -86,7 +112,7 @@ With a strong engineering leadership background at **Zulu Tech** (fintech B2B/B2
   <img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white" alt="Elasticsearch" />
 </p>
 
-### ☁️ DevOps, Cloud & Automation
+### ☁️ DevOps, Cloud & Infrastructure
 <p align="left">
   <img src="https://img.shields.io/badge/Azure-0072C6?style=flat-square&logo=azure-devops&logoColor=white" alt="Azure" />
   <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS" />
@@ -94,10 +120,9 @@ With a strong engineering leadership background at **Zulu Tech** (fintech B2B/B2
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes" />
   <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" alt="Terraform" />
-  <img src="https://img.shields.io/badge/n8n-FF6D5A?style=flat-square&logo=n8n&logoColor=white" alt="n8n Automation" />
 </p>
 
-### 🔧 Tools, Frameworks & Design
+### 🔧 Tools, Architecture & Management
 <p align="left">
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma" />
@@ -109,55 +134,83 @@ With a strong engineering leadership background at **Zulu Tech** (fintech B2B/B2
 
 ---
 
-## 📊 GitHub Dashboard [Powered by GitCard Studio](https://gitcard-studio.creativecode.com.co)
+## 📊 GitHub Live Dashboard · [Powered by GitCard Studio](https://gitcard-studio.creativecode.com.co)
 
-<table border="0">
+<p align="center">
+  <em>⚡ Dynamic, high-definition SVG cards generated in real time. Click any card to customize your own on GitCard Studio!</em>
+</p>
+
+<table border="0" width="100%">
   <tr>
     <td valign="top" width="50%">
-      <img src="https://gitcard-studio.creativecode.com.co/api/today-status?username=joaltoroc&theme=dark&locale=en" alt="Today's Status Badge" width="100%" />
+      <a href="https://gitcard-studio.creativecode.com.co" target="_blank" rel="noopener noreferrer">
+        <img src="https://gitcard-studio.creativecode.com.co/api/today-status?username=joaltoroc&theme=dark&locale=en" alt="Today's Status Badge" width="100%" />
+      </a>
     </td>
     <td valign="top" width="50%">
-      <img src="https://gitcard-studio.creativecode.com.co/api/rank?username=joaltoroc&theme=dark&locale=en" alt="Developer Rank" width="100%" />
+      <a href="https://gitcard-studio.creativecode.com.co" target="_blank" rel="noopener noreferrer">
+        <img src="https://gitcard-studio.creativecode.com.co/api/rank?username=joaltoroc&theme=dark&locale=en" alt="Developer Rank" width="100%" />
+      </a>
     </td>
   </tr>
   <tr>
     <td valign="top" width="50%">
-      <img src="https://gitcard-studio.creativecode.com.co/api/stats?username=joaltoroc&theme=dark&locale=en" alt="General Statistics" width="100%" />
+      <a href="https://gitcard-studio.creativecode.com.co" target="_blank" rel="noopener noreferrer">
+        <img src="https://gitcard-studio.creativecode.com.co/api/stats?username=joaltoroc&theme=dark&locale=en" alt="General Statistics" width="100%" />
+      </a>
     </td>
     <td valign="top" width="50%">
-      <img src="https://gitcard-studio.creativecode.com.co/api/languages?username=joaltoroc&theme=dark&locale=en" alt="Most Used Languages" width="100%" />
-    </td>
-  </tr>
-  <tr>
-    <td valign="top" width="50%">
-      <img src="https://gitcard-studio.creativecode.com.co/api/streak?username=joaltoroc&theme=dark&locale=en" alt="Commit Streak" width="100%" />
-    </td>
-    <td valign="top" width="50%">
-      <img src="https://gitcard-studio.creativecode.com.co/api/tech-stack?username=joaltoroc&theme=dark&locale=en" alt="Tech Stack Ecosystem" width="100%" />
+      <a href="https://gitcard-studio.creativecode.com.co" target="_blank" rel="noopener noreferrer">
+        <img src="https://gitcard-studio.creativecode.com.co/api/languages?username=joaltoroc&theme=dark&locale=en" alt="Most Used Languages" width="100%" />
+      </a>
     </td>
   </tr>
   <tr>
     <td valign="top" width="50%">
-      <img src="https://gitcard-studio.creativecode.com.co/api/trophies?username=joaltoroc&theme=dark&locale=en" alt="GitHub Trophies" width="100%" />
+      <a href="https://gitcard-studio.creativecode.com.co" target="_blank" rel="noopener noreferrer">
+        <img src="https://gitcard-studio.creativecode.com.co/api/streak?username=joaltoroc&theme=dark&locale=en" alt="Commit Streak" width="100%" />
+      </a>
     </td>
     <td valign="top" width="50%">
-      <img src="https://gitcard-studio.creativecode.com.co/api/top-repos?username=joaltoroc&theme=dark&locale=en" alt="Top Repositories" width="100%" />
-    </td>
-  </tr>
-  <tr>
-    <td valign="top" width="50%">
-      <img src="https://gitcard-studio.creativecode.com.co/api/commit-activity?username=joaltoroc&theme=dark&locale=en" alt="Commit Activity Matrix" width="100%" />
-    </td>
-    <td valign="top" width="50%">
-      <img src="https://gitcard-studio.creativecode.com.co/api/timeline-matrix?username=joaltoroc&theme=dark&locale=en" alt="Productivity Timeline" width="100%" />
+      <a href="https://gitcard-studio.creativecode.com.co" target="_blank" rel="noopener noreferrer">
+        <img src="https://gitcard-studio.creativecode.com.co/api/tech-stack?username=joaltoroc&theme=dark&locale=en" alt="Tech Stack Ecosystem" width="100%" />
+      </a>
     </td>
   </tr>
   <tr>
     <td valign="top" width="50%">
-      <img src="https://gitcard-studio.creativecode.com.co/api/repo?username=joaltoroc&theme=dark&locale=en" alt="Featured Repository" width="100%" />
+      <a href="https://gitcard-studio.creativecode.com.co" target="_blank" rel="noopener noreferrer">
+        <img src="https://gitcard-studio.creativecode.com.co/api/trophies?username=joaltoroc&theme=dark&locale=en" alt="GitHub Trophies" width="100%" />
+      </a>
     </td>
     <td valign="top" width="50%">
-      <img src="https://gitcard-studio.creativecode.com.co/api/sponsors?username=joaltoroc&theme=dark&locale=en" alt="GitHub Sponsors" width="100%" />
+      <a href="https://gitcard-studio.creativecode.com.co" target="_blank" rel="noopener noreferrer">
+        <img src="https://gitcard-studio.creativecode.com.co/api/top-repos?username=joaltoroc&theme=dark&locale=en" alt="Top Repositories" width="100%" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="50%">
+      <a href="https://gitcard-studio.creativecode.com.co" target="_blank" rel="noopener noreferrer">
+        <img src="https://gitcard-studio.creativecode.com.co/api/commit-activity?username=joaltoroc&theme=dark&locale=en" alt="Commit Activity Matrix" width="100%" />
+      </a>
+    </td>
+    <td valign="top" width="50%">
+      <a href="https://gitcard-studio.creativecode.com.co" target="_blank" rel="noopener noreferrer">
+        <img src="https://gitcard-studio.creativecode.com.co/api/timeline-matrix?username=joaltoroc&theme=dark&locale=en" alt="Productivity Timeline" width="100%" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="50%">
+      <a href="https://gitcard-studio.creativecode.com.co" target="_blank" rel="noopener noreferrer">
+        <img src="https://gitcard-studio.creativecode.com.co/api/repo?username=joaltoroc&theme=dark&locale=en" alt="Featured Repository" width="100%" />
+      </a>
+    </td>
+    <td valign="top" width="50%">
+      <a href="https://gitcard-studio.creativecode.com.co" target="_blank" rel="noopener noreferrer">
+        <img src="https://gitcard-studio.creativecode.com.co/api/sponsors?username=joaltoroc&theme=dark&locale=en" alt="GitHub Sponsors" width="100%" />
+      </a>
     </td>
   </tr>
 </table>
